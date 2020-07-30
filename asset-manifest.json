@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/catbuds/static/css/main.dc35c7dd.chunk.css",
+    "main.js": "/catbuds/static/js/main.ce0a4842.chunk.js",
+    "main.js.map": "/catbuds/static/js/main.ce0a4842.chunk.js.map",
+    "runtime-main.js": "/catbuds/static/js/runtime-main.55c5eac6.js",
+    "runtime-main.js.map": "/catbuds/static/js/runtime-main.55c5eac6.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/catbuds/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.863f4aec.chunk.js": "/catbuds/static/js/2.863f4aec.chunk.js",
+    "static/js/2.863f4aec.chunk.js.map": "/catbuds/static/js/2.863f4aec.chunk.js.map",
+    "index.html": "/catbuds/index.html",
+    "precache-manifest.94408b371b346e0888262051a2107c5a.js": "/catbuds/precache-manifest.94408b371b346e0888262051a2107c5a.js",
+    "service-worker.js": "/catbuds/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/catbuds/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.dc35c7dd.chunk.css.map": "/catbuds/static/css/main.dc35c7dd.chunk.css.map",
+    "static/js/2.863f4aec.chunk.js.LICENSE.txt": "/catbuds/static/js/2.863f4aec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55c5eac6.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.863f4aec.chunk.js",
+    "static/css/main.dc35c7dd.chunk.css",
+    "static/js/main.ce0a4842.chunk.js"
+  ]
+}
